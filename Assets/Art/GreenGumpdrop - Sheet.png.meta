@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 3e57638c6e7e329438d1f4ad3c42ec60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2007628676670293717
+    second: GreenGumpdrop - Sheet_0
+  - first:
+      213: 1417905239391362527
+    second: GreenGumpdrop - Sheet_1
+  - first:
+      213: 3389650864270357123
+    second: GreenGumpdrop - Sheet_2
+  - first:
+      213: 4800002684095772517
+    second: GreenGumpdrop - Sheet_3
+  - first:
+      213: -8201877468396654950
+    second: GreenGumpdrop - Sheet_4
+  - first:
+      213: -6808251448834652517
+    second: GreenGumpdrop - Sheet_5
+  - first:
+      213: -8431536631467689717
+    second: GreenGumpdrop - Sheet_6
+  - first:
+      213: 5591325189139520323
+    second: GreenGumpdrop - Sheet_7
+  - first:
+      213: -3323531433164775311
+    second: GreenGumpdrop - Sheet_8
+  - first:
+      213: 8659609510478124156
+    second: GreenGumpdrop - Sheet_9
+  - first:
+      213: -6148229286145548628
+    second: GreenGumpdrop - Sheet_10
+  - first:
+      213: 1338606708542076347
+    second: GreenGumpdrop - Sheet_11
+  - first:
+      213: -7612074635631829661
+    second: GreenGumpdrop - Sheet_12
+  - first:
+      213: 5354527304530551315
+    second: GreenGumpdrop - Sheet_13
+  - first:
+      213: -4103909607594369843
+    second: GreenGumpdrop - Sheet_14
+  - first:
+      213: -8125010277996524597
+    second: GreenGumpdrop - Sheet_15
+  - first:
+      213: -5296359818662801124
+    second: GreenGumpdrop - Sheet_16
+  - first:
+      213: 2472520798346162303
+    second: GreenGumpdrop - Sheet_17
+  - first:
+      213: 6723971287423442937
+    second: GreenGumpdrop - Sheet_18
+  - first:
+      213: 3553634824132197339
+    second: GreenGumpdrop - Sheet_19
+  - first:
+      213: -1962948653325826678
+    second: GreenGumpdrop - Sheet_20
+  - first:
+      213: 7945250620379554863
+    second: GreenGumpdrop - Sheet_21
+  - first:
+      213: 8928489890033564076
+    second: GreenGumpdrop - Sheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenGumpdrop - Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d602d105a78cdb10800000000000000
+      internalID: 2007628676670293717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenGumpdrop - Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd56178d496da310800000000000000
+      internalID: 1417905239391362527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenGumpdrop - Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3823e6d70857a0f20800000000000000
+      internalID: 3389650864270357123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenGumpdrop - Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567337a72090d9240800000000000000
+      internalID: 4800002684095772517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenGumpdrop - Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eefecd5e31d2e80800000000000000
+      internalID: -8201877468396654950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenGumpdrop - Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b960ca2016b3481a0800000000000000
+      internalID: -6808251448834652517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c216cc8f8c0925543a022328f583121c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreenGumpdrop - Sheet_0: 2007628676670293717
+      GreenGumpdrop - Sheet_1: 1417905239391362527
+      GreenGumpdrop - Sheet_2: 3389650864270357123
+      GreenGumpdrop - Sheet_3: 4800002684095772517
+      GreenGumpdrop - Sheet_4: -8201877468396654950
+      GreenGumpdrop - Sheet_5: -6808251448834652517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

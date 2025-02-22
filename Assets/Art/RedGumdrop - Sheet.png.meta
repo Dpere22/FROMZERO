@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 022221a7d7b6aa74db0f099bb538060c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6921354389641899539
+    second: RedGumdrop - Sheet_0
+  - first:
+      213: -360133805426521057
+    second: RedGumdrop - Sheet_1
+  - first:
+      213: -9116474253946008616
+    second: RedGumdrop - Sheet_2
+  - first:
+      213: 6355430666447675556
+    second: RedGumdrop - Sheet_3
+  - first:
+      213: 9184737101188263112
+    second: RedGumdrop - Sheet_4
+  - first:
+      213: 3646553941207357945
+    second: RedGumdrop - Sheet_5
+  - first:
+      213: -4068754452079084635
+    second: RedGumdrop - Sheet_6
+  - first:
+      213: 2560067890380620055
+    second: RedGumdrop - Sheet_7
+  - first:
+      213: -2170792096573723431
+    second: RedGumdrop - Sheet_8
+  - first:
+      213: -8233410765576594982
+    second: RedGumdrop - Sheet_9
+  - first:
+      213: 8558865456880390170
+    second: RedGumdrop - Sheet_10
+  - first:
+      213: -7964613823151884756
+    second: RedGumdrop - Sheet_11
+  - first:
+      213: -8947657733356123857
+    second: RedGumdrop - Sheet_12
+  - first:
+      213: 6348482165041010680
+    second: RedGumdrop - Sheet_13
+  - first:
+      213: 8402238941791024819
+    second: RedGumdrop - Sheet_14
+  - first:
+      213: 7696608274302889801
+    second: RedGumdrop - Sheet_15
+  - first:
+      213: 5401674210811029545
+    second: RedGumdrop - Sheet_16
+  - first:
+      213: -4752831791180766695
+    second: RedGumdrop - Sheet_17
+  - first:
+      213: 3830586208307230175
+    second: RedGumdrop - Sheet_18
+  - first:
+      213: 7554526082198457175
+    second: RedGumdrop - Sheet_19
+  - first:
+      213: -4403131089032003591
+    second: RedGumdrop - Sheet_20
+  - first:
+      213: -7746243888826566547
+    second: RedGumdrop - Sheet_21
+  - first:
+      213: -2601484608897302437
+    second: RedGumdrop - Sheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedGumdrop - Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e223f75279d0060800000000000000
+      internalID: 6921354389641899539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedGumdrop - Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c41f7463c800bf0800000000000000
+      internalID: -360133805426521057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedGumdrop - Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbcd8997f6cb7180800000000000000
+      internalID: -9116474253946008616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedGumdrop - Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0ec34c486033850800000000000000
+      internalID: 6355430666447675556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedGumdrop - Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6daf0bbdb67f70800000000000000
+      internalID: 9184737101188263112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedGumdrop - Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f917ff3d792b9230800000000000000
+      internalID: 3646553941207357945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cae7e95573a2254184c9d8cf76c9e9c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedGumdrop - Sheet_0: 6921354389641899539
+      RedGumdrop - Sheet_1: -360133805426521057
+      RedGumdrop - Sheet_2: -9116474253946008616
+      RedGumdrop - Sheet_3: 6355430666447675556
+      RedGumdrop - Sheet_4: 9184737101188263112
+      RedGumdrop - Sheet_5: 3646553941207357945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

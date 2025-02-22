@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: e425568af2e774b4795c5b1c954df06c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 581544109981856450
+    second: BlueGumpdrop - Sheet_0
+  - first:
+      213: 6856927534786045588
+    second: BlueGumpdrop - Sheet_1
+  - first:
+      213: 3900152313618211555
+    second: BlueGumpdrop - Sheet_2
+  - first:
+      213: 8801521251229770911
+    second: BlueGumpdrop - Sheet_3
+  - first:
+      213: -4453214808944695660
+    second: BlueGumpdrop - Sheet_4
+  - first:
+      213: -4974448761775465958
+    second: BlueGumpdrop - Sheet_5
+  - first:
+      213: 8257874547588857233
+    second: BlueGumpdrop - Sheet_6
+  - first:
+      213: -2692596825070751131
+    second: BlueGumpdrop - Sheet_7
+  - first:
+      213: -3218371778330798094
+    second: BlueGumpdrop - Sheet_8
+  - first:
+      213: 3363796364544231494
+    second: BlueGumpdrop - Sheet_9
+  - first:
+      213: 1709711717431715598
+    second: BlueGumpdrop - Sheet_10
+  - first:
+      213: 504958298782511225
+    second: BlueGumpdrop - Sheet_11
+  - first:
+      213: 7302302497667774237
+    second: BlueGumpdrop - Sheet_12
+  - first:
+      213: 1589755003798351203
+    second: BlueGumpdrop - Sheet_13
+  - first:
+      213: 7127977350594601596
+    second: BlueGumpdrop - Sheet_14
+  - first:
+      213: -6443189324754083469
+    second: BlueGumpdrop - Sheet_15
+  - first:
+      213: -4884545102687847093
+    second: BlueGumpdrop - Sheet_16
+  - first:
+      213: -7582033322828664921
+    second: BlueGumpdrop - Sheet_17
+  - first:
+      213: 8755250445745029952
+    second: BlueGumpdrop - Sheet_18
+  - first:
+      213: 6315265048768293642
+    second: BlueGumpdrop - Sheet_19
+  - first:
+      213: -2202938829671219992
+    second: BlueGumpdrop - Sheet_20
+  - first:
+      213: 1948924307701395465
+    second: BlueGumpdrop - Sheet_21
+  - first:
+      213: -5563156618474377957
+    second: BlueGumpdrop - Sheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueGumpdrop - Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c270b0794f021800800000000000000
+      internalID: 581544109981856450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGumpdrop - Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49664896343b82f50800000000000000
+      internalID: 6856927534786045588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGumpdrop - Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2a1278ddf102630800000000000000
+      internalID: 3900152313618211555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGumpdrop - Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942a9e02f8452a70800000000000000
+      internalID: 8801521251229770911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGumpdrop - Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496a754b9b00332c0800000000000000
+      internalID: -4453214808944695660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGumpdrop - Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1addf8f43537fab0800000000000000
+      internalID: -4974448761775465958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 944662f6957909444ba5e38b06516b9d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueGumpdrop - Sheet_0: 581544109981856450
+      BlueGumpdrop - Sheet_1: 6856927534786045588
+      BlueGumpdrop - Sheet_2: 3900152313618211555
+      BlueGumpdrop - Sheet_3: 8801521251229770911
+      BlueGumpdrop - Sheet_4: -4453214808944695660
+      BlueGumpdrop - Sheet_5: -4974448761775465958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

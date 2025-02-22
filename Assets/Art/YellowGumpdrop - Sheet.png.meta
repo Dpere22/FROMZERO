@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: c1ca2a120afe0a8429aaffdd26030115
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 131962901883567628
+    second: YellowGumpdrop - Sheet_0
+  - first:
+      213: -1493997156863627869
+    second: YellowGumpdrop - Sheet_1
+  - first:
+      213: 1620745408480160348
+    second: YellowGumpdrop - Sheet_2
+  - first:
+      213: -7385840980337580968
+    second: YellowGumpdrop - Sheet_3
+  - first:
+      213: 6205658966040059920
+    second: YellowGumpdrop - Sheet_4
+  - first:
+      213: 6456515662967663147
+    second: YellowGumpdrop - Sheet_5
+  - first:
+      213: -1658501384192266801
+    second: YellowGumpdrop - Sheet_6
+  - first:
+      213: 2276452181688522322
+    second: YellowGumpdrop - Sheet_7
+  - first:
+      213: -8901457649086121849
+    second: YellowGumpdrop - Sheet_8
+  - first:
+      213: 9199897260276557370
+    second: YellowGumpdrop - Sheet_9
+  - first:
+      213: 9154944112982255418
+    second: YellowGumpdrop - Sheet_10
+  - first:
+      213: -4026059324513289438
+    second: YellowGumpdrop - Sheet_11
+  - first:
+      213: 295340639642808863
+    second: YellowGumpdrop - Sheet_12
+  - first:
+      213: 2226989751775324656
+    second: YellowGumpdrop - Sheet_13
+  - first:
+      213: -8280561897648448894
+    second: YellowGumpdrop - Sheet_14
+  - first:
+      213: 1265036956412244035
+    second: YellowGumpdrop - Sheet_15
+  - first:
+      213: -6541992162052907365
+    second: YellowGumpdrop - Sheet_16
+  - first:
+      213: -3588067938970990105
+    second: YellowGumpdrop - Sheet_17
+  - first:
+      213: -8271328498050592170
+    second: YellowGumpdrop - Sheet_18
+  - first:
+      213: 6863641589907251430
+    second: YellowGumpdrop - Sheet_19
+  - first:
+      213: 126127875092744042
+    second: YellowGumpdrop - Sheet_20
+  - first:
+      213: -1552351819910977498
+    second: YellowGumpdrop - Sheet_21
+  - first:
+      213: -6046787662856654374
+    second: YellowGumpdrop - Sheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YellowGumpdrop - Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ebc426f83d4d100800000000000000
+      internalID: 131962901883567628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowGumpdrop - Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad23b95081444be0800000000000000
+      internalID: -1493997156863627869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowGumpdrop - Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a2ec7ac5b0e7610800000000000000
+      internalID: 1620745408480160348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowGumpdrop - Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854a47f92c8308990800000000000000
+      internalID: -7385840980337580968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowGumpdrop - Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010290c53fdee1650800000000000000
+      internalID: 6205658966040059920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowGumpdrop - Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aeee199c62a9950800000000000000
+      internalID: 6456515662967663147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 81d16bcfeb9d14147bc02d795dfddf20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YellowGumpdrop - Sheet_0: 131962901883567628
+      YellowGumpdrop - Sheet_1: -1493997156863627869
+      YellowGumpdrop - Sheet_2: 1620745408480160348
+      YellowGumpdrop - Sheet_3: -7385840980337580968
+      YellowGumpdrop - Sheet_4: 6205658966040059920
+      YellowGumpdrop - Sheet_5: 6456515662967663147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
