@@ -20,4 +20,9 @@ public class PlayerManager : MonoBehaviour
     {
         return health;
     }
+
+    public void RemoveHealth(int hurt)
+    {
+        health -= hurt;
+    }
 }
