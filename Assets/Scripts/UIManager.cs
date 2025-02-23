@@ -10,7 +10,6 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject player;
     [SerializeField] private TextMeshProUGUI healthText;
     [SerializeField] private TextMeshProUGUI percentText;
-    [SerializeField] private GameObject pauseMenu;
     [FormerlySerializedAs("playerStart")] [SerializeField] private Transform playerTransform;
     [SerializeField] private Transform gameEndLocation;
     private PlayerManager _playerManager;
@@ -43,8 +42,7 @@ public class UIManager : MonoBehaviour
 
     private void TogglePauseMenu()
     {
-        _isPaused = !_isPaused;
-        pauseMenu.SetActive(_isPaused);
+        MainMenu();
     }
 
     public void MainMenu()
