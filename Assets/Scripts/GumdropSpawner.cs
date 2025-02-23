@@ -3,10 +3,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spawner : MonoBehaviour
+public class GumdropSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject StartPoint, EndPoint;
-    [SerializeField] private float SpawnSpeed;
+    [SerializeField] private float MaxSpawnSpeed;
     [SerializeField] private List<GameObject> Gumdrops;
     float StartX;
     float EndX;
@@ -23,7 +23,7 @@ public class Spawner : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(SpawnSpeed);
+            yield return new WaitForSeconds(Random.Range(0, MaxSpawnSpeed));
             SpawnGumdrop();
         }
     }

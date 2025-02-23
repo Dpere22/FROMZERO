@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DestroyGumdrop : MonoBehaviour
+public class DestroyScript : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
