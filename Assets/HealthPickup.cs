@@ -7,6 +7,7 @@ public class HealthPickup : MonoBehaviour
         if(collision.gameObject.CompareTag("Player"))
         {
             collision.gameObject.GetComponent<PlayerManager>().AddHealth(1);
+            Notify.HealthGained?.Invoke();
             Destroy(gameObject);
         } 
     }

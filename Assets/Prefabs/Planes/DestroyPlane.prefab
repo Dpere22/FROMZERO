@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8336384232480812402}
   - component: {fileID: 7132450649813205908}
   - component: {fileID: 6129878774943106985}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: DestroyPlane
   m_TagString: Untagged
   m_Icon: {fileID: 0}

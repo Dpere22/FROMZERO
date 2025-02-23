@@ -7,10 +7,20 @@ public class GumdropSpawner : MonoBehaviour
     [SerializeField] private GameObject StartPoint, EndPoint;
     [SerializeField] private float MaxSpawnSpeed;
     [SerializeField] private List<GameObject> Gumdrops;
+
+    [SerializeField] private Transform player;
+    [SerializeField] private Transform spawnPoint;
+
+    [SerializeField] private float offset;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         StartCoroutine(Spawn());
+    }
+
+    void Update()
+    {
+        spawnPoint.position = new Vector3(0f, player.position.y + offset, 0f);
     }
     IEnumerator Spawn()
     {
