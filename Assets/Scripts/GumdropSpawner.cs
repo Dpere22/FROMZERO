@@ -8,15 +8,9 @@ public class GumdropSpawner : MonoBehaviour
     [SerializeField] private GameObject StartPoint, EndPoint;
     [SerializeField] private float MaxSpawnSpeed;
     [SerializeField] private List<GameObject> Gumdrops;
-    float StartX;
-    float EndX;
-    float Y;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        StartX = StartPoint.transform.position.x;
-        EndX = EndPoint.transform.position.x;
-        Y = StartPoint.transform.position.y;
         StartCoroutine(Spawn());
     }
     IEnumerator Spawn()
@@ -29,8 +23,8 @@ public class GumdropSpawner : MonoBehaviour
     }
     private void SpawnGumdrop()
     {
-        float random = Random.Range(StartX, EndX);
+        float random = Random.Range(StartPoint.transform.position.x, EndPoint.transform.position.x);
         GameObject choice = Gumdrops[Random.Range(0, Gumdrops.Count)];
-        Instantiate(choice, new Vector3(random, Y, 0), Quaternion.identity);
+        Instantiate(choice, new Vector3(random, StartPoint.transform.position.y, 0), Quaternion.identity);
     }
 }

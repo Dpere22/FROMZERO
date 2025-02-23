@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1604852560191775583}
   - component: {fileID: 2116360622642688564}
-  - component: {fileID: 4892504937133517289}
   - component: {fileID: 8940499722241173700}
   - component: {fileID: 358152594357614580}
   - component: {fileID: 8516208625757556566}
+  - component: {fileID: 7486156920824380825}
   m_Layer: 0
   m_Name: YellowGumdrop
   m_TagString: Gumdrop
@@ -91,28 +91,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &4892504937133517289
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5650759202598306926}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: cfaa19097e785c0489e13c6a2fcbc603, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!70 &8940499722241173700
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -189,3 +167,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6745a1b12bfd71948a74125452fc210b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &7486156920824380825
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5650759202598306926}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6d44cc0d8446ad04f8fb2e3027dd0a5e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
