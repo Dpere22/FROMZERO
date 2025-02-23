@@ -137,6 +137,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerRb: {fileID: 6045714304475543955}
   movementSpeed: 5
+  dashForce: 8
 --- !u!50 &6045714304475543955
 Rigidbody2D:
   serializedVersion: 5

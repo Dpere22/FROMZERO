@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     private static readonly int Velocity = Animator.StringToHash("velocity");
     [SerializeField] private Rigidbody2D playerRb;
     [SerializeField] private int movementSpeed;
+    [SerializeField] private float dashForce;
     private bool _isDashing;
     
     
@@ -35,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
     {
         _isDashing = true;
         Vector2 currVelocity = playerRb.linearVelocity;
-        Vector2 dashDir = playerRb.linearVelocity.normalized * 4;
+        Vector2 dashDir = playerRb.linearVelocity.normalized * dashForce;
         playerRb.linearVelocity = new Vector2(currVelocity.x, currVelocity.y) + dashDir;
         yield return new WaitForSeconds(0.1f);
         playerRb.linearVelocity = new Vector2(currVelocity.x, currVelocity.y);
