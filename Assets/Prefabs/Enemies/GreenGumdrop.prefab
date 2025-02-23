@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 6155488181651110183}
   - component: {fileID: 8259756703902201671}
   - component: {fileID: 442027051302377935}
-  - component: {fileID: 3155934414512286800}
   - component: {fileID: 5956416205748641207}
+  - component: {fileID: 8468065054312939352}
   m_Layer: 0
   m_Name: GreenGumdrop
   m_TagString: Gumdrop
@@ -121,7 +121,7 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -136,11 +136,11 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1472462053233124919}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 0.0001
+  m_Mass: 2
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
@@ -155,18 +155,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &3155934414512286800
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1472462053233124919}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6745a1b12bfd71948a74125452fc210b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &5956416205748641207
 Animator:
   serializedVersion: 7
@@ -189,3 +177,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8468065054312939352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1472462053233124919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 217f19b610d86b743ac5c62970e28133, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 442027051302377935}
+  speed: 5
