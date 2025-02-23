@@ -9,11 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: a1efb4ddfbabc984d881a644ce183370
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/JameScene.unity
+    guid: 61e3d70b35b88484680bd78de41b7721
   - enabled: 1
     path: Assets/Scenes/WinScreen.unity
     guid: 098cc85187a523b4a9f82fc78172f3e6
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: 9441d3660042b4644899883b8a41f4c8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
