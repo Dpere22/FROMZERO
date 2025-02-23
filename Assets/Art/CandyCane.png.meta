@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a866aee3083d2664c9640a0a911f44e0
+guid: 765bf2a7e0978be4e9336cee83af428b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5018473283827622026
-    second: IceCream_0
+      213: -3613379397505163970
+    second: CandyCane_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IceCream_0
+      name: CandyCane_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 7
-        width: 53
-        height: 104
+        x: 24
+        y: 1
+        width: 30
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a806555dcd235a540800000000000000
-      internalID: 5018473283827622026
+      spriteID: e3d5dfc1592baddc0800000000000000
+      internalID: -3613379397505163970
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      IceCream_0: 5018473283827622026
+      CandyCane_0: -3613379397505163970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

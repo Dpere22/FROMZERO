@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerManager : MonoBehaviour
 {
@@ -13,7 +14,10 @@ public class PlayerManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (health <= 0)
+        {
+            SceneManager.LoadScene(3);
+        }
     }
 
     public int GetHealth()
@@ -24,5 +28,10 @@ public class PlayerManager : MonoBehaviour
     public void RemoveHealth(int hurt)
     {
         health -= hurt;
+    }
+
+    public void AddHealth(int heal)
+    {
+        health += heal;
     }
 }
